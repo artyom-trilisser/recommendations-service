@@ -1,0 +1,9 @@
+application:
+  currenciesDirPath: 'C:\Users\Artsiom_Tryliser\Desktop\Java_mid_level_backend_exercise\prices'
+  currenciesFileTemplate: '%s_values.csv'
+  currencies:
+    - BTC
+    - DOGE
+    - ETH
+    - LTC
+    - XRP
