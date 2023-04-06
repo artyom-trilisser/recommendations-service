@@ -59,6 +59,7 @@ public class CryptoService {
 
         }
         return CryptoDataDTO.builder()
+                .symbol(cryptoSymbol)
                 .max(max)
                 .min(min)
                 .newest(newest)
